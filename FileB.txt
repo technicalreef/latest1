@@ -1,2 +1,3 @@
 This is file B version 1.
 This is file B version 2.
+This is file B version 3.
